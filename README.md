@@ -23,6 +23,7 @@ activate
 
 https://flask.palletsprojects.com/en/stable/  
 https://depart.femh.org.tw/dietary/3OPD/BMI.htm  
+sqlitebrowser->https://sqlitebrowser.org/dl/  
 
 
 ------------------------------------------------------------------------------  
