@@ -1,0 +1,46 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <h1>{% block title %} Add a New Post {% endblock %}</h1>
+    <form method="post">
+        <label for="ID">ID</label>
+        <br>
+        <input type="text" name="ID"
+               placeholder="Post ID"
+               value="{{ request.form['ID'] }}"></input>
+        <br>
+
+        <label for="NAME">NAME</label>
+        <br>
+        <input type="text" name="NAME"
+        placeholder="Post NAME"
+        value="{{ request.form['NAME'] }}"></input>
+        <br>
+
+        <label for="AGE">AGE</label>
+        <br>
+        <input type="text" name="AGE"
+        placeholder="Post AGE"
+        value="{{ request.form['AGE'] }}"></input>
+        <br>
+
+        <label for="ADDRESS">ADDRESS</label>
+        <br>
+        <input type="text" name="ADDRESS"
+        placeholder="Post ADDRESS"
+        value="{{ request.form['ADDRESS'] }}"></input>
+        <br>
+
+        <label for="SALARY">SALARY</label>
+        <br>
+        <input type="text" name="SALARY"
+        placeholder="Post SALARY"
+        value="{{ request.form['SALARY'] }}"></input>
+        <br>
+
+
+
+
+        <button type="submit">Submit</button>
+    </form>
+{% endblock %}

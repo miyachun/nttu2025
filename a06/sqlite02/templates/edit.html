@@ -1,0 +1,41 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <h1>{% block title %} Edit "{{ post['NAME'] }}" {% endblock %}</h1>
+    <form method="post">
+
+        <label for="NAME">NAME</label>
+        <br>
+        <input type="text" name="NAME"
+        placeholder="Post NAME"
+        value="{{ request.form['NAME'] or post['NAME'] }}"></input>
+        <br>
+
+        <label for="AGE">AGE</label>
+        <br>
+        <input type="text" name="AGE"
+        placeholder="Post AGE"
+        value="{{ request.form['AGE'] or post['AGE'] }}"></input>
+        <br>
+
+        <label for="ADDRESS">ADDRESS</label>
+        <br>
+        <input type="text" name="ADDRESS"
+        placeholder="Post ADDRESS"
+        value="{{ request.form['ADDRESS'] or post['ADDRESS'] }}"></input>
+        <br>
+
+        <label for="SALARY">SALARY</label>
+        <br>
+        <input type="text" name="SALARY"
+        placeholder="Post SALARY"
+        value="{{ request.form['SALARY'] or post['SALARY'] }}"></input>
+        <br>
+
+
+
+
+        <button type="submit">Submit</button>
+    </form>
+    </form>
+{% endblock %}
