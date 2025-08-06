@@ -20,4 +20,6 @@ virtualenv -p python3.12 (取一個名稱)
 到虛擬環境Scripts目錄中啟動  
 activate  
 
+
+https://flask.palletsprojects.com/en/stable/  
 ------------------------------------------------------------------------------  
