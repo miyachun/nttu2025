@@ -8,8 +8,8 @@ python --version
 https://www.python.org/downloads/windows/  
   
 1->環境變數  
-C:\Users\XX\AppData\Local\Programs\Python\Python312\Scripts  
-C:\Users\XX\AppData\Local\Programs\Python\Python312  
+C:\Users\User\AppData\Local\Programs\Python\Python39  
+C:\Users\User\AppData\Local\Programs\Python\Python39\Scripts  
   
 2->安裝virtualenv  
 pip install virtualenv  
