@@ -3,10 +3,7 @@
 -虛擬環境安裝-  
 版本:  
 python --version  
-
-3.12.8  
-https://www.python.org/downloads/windows/  
-  
+ 
 1->環境變數  
 C:\Users\User\AppData\Local\Programs\Python\Python39  
 C:\Users\User\AppData\Local\Programs\Python\Python39\Scripts  
@@ -19,11 +16,10 @@ virtualenv -p python3.12 (取一個名稱)
 3->啟動  
 到虛擬環境Scripts目錄中啟動  
 activate  
-
-
-https://flask.palletsprojects.com/en/stable/  
-https://depart.femh.org.tw/dietary/3OPD/BMI.htm  
+  
+python->https://www.python.org/downloads/windows/  
+flask->https://flask.palletsprojects.com/en/stable/  
 sqlitebrowser->https://sqlitebrowser.org/dl/  
-
+ngrok->https://ngrok.com/  
 
 ------------------------------------------------------------------------------  
