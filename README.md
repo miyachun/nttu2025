@@ -1,3 +1,7 @@
+https://developers.line.biz/en/docs/messaging-api/sticker-list/#sticker-definitions  
+https://developers.line.biz/en/docs/messaging-api/emoji-list/  
+
+
 凱比程式實驗室->https://support.nuwarobotics.com/zh-hant/docs/biztools/codelab/  
 ![image](do.jpg)  
 ![image](do01.jpg)  
