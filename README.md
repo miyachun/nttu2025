@@ -20,6 +20,7 @@ activate
 python->https://www.python.org/downloads/windows/  
 flask->https://flask.palletsprojects.com/en/stable/  
 sqlitebrowser->https://sqlitebrowser.org/dl/  
+line->https://developers.line.biz/zh-hant/  
 ngrok->https://ngrok.com/  
 
 ------------------------------------------------------------------------------  
