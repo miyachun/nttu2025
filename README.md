@@ -1,4 +1,4 @@
-pip3 install labelImg  
+pip install labelImg  
 pip install opencv-python  
 
 -Windows 上的 Python DLL 載入失敗-  
