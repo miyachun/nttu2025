@@ -23,7 +23,6 @@ C:\Users\User\AppData\Local\Programs\Python\Python39\Scripts
 2->安裝virtualenv  
 pip install virtualenv  
 virtualenv (取一個名稱)  
-virtualenv -p python3.12 (取一個名稱)  
   
 3->啟動  
 到虛擬環境Scripts目錄中啟動  
