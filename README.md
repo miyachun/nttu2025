@@ -9,11 +9,6 @@ pip install msvc-runtime #直接安裝在本機
 2dataset->https://universe.roboflow.com/xiao-chen-gypet/yahoooooo  
 
 凱比程式實驗室->https://support.nuwarobotics.com/zh-hant/docs/biztools/codelab/  
-https://teachablemachine.withgoogle.com/  
-  
-![image](do.jpg)  
-![image](do01.jpg)  
-
 
 -虛擬環境安裝-  
 版本:  
