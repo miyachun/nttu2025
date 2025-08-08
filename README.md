@@ -5,7 +5,6 @@ pip install opencv-python
 https://ai.google.dev/edge/mediapipe/framework/getting_started/troubleshooting?hl=zh-tw  
 pip install msvc-runtime #直接安裝在本機  
 
-
 1dataset->https://universe.roboflow.com/hiraki/rock-paper-scissors-rbzgd/dataset/2  
 2dataset->https://universe.roboflow.com/xiao-chen-gypet/yahoooooo  
 
