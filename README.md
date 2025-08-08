@@ -1,9 +1,3 @@
-https://data.gov.tw/dataset/165775  
-  
-https://developers.line.biz/en/docs/messaging-api/using-flex-messages/#checking-behavior-in-flex-message-simulator  
-https://developers.line.biz/en/docs/messaging-api/sticker-list/#sticker-definitions  
-https://developers.line.biz/en/docs/messaging-api/emoji-list/  
-
 
 凱比程式實驗室->https://support.nuwarobotics.com/zh-hant/docs/biztools/codelab/  
 https://teachablemachine.withgoogle.com/  
