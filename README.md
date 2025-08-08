@@ -1,3 +1,5 @@
+pip install opencv-python  
+
 -Windows 上的 Python DLL 載入失敗-  
 https://ai.google.dev/edge/mediapipe/framework/getting_started/troubleshooting?hl=zh-tw  
 pip install msvc-runtime #直接安裝在本機  
